@@ -37,11 +37,12 @@ p {
 
 .album-art {
 border: 2px solid red;
-	padding: 10px;
+	padding: 20px;
 	margin-bottom: 20px;
-	margin-right: 30px;
+	margin-right: 40px;
 	float: left;
 	margin-top: 30px;
+	margin-left: 30px;
 }
 
 .clear {
@@ -50,10 +51,12 @@ border: 2px solid red;
 
 .image-electronics, .image-stage-effects {
 	border: 2px solid red;
-	padding: 10px;
+	padding: 20px;
 	margin-bottom: 20px;
 	margin-right: 20px;
 	float: left;
+	margin-left: 30px;
+	margin-top: 30px;
 }
 
 .record-label {
